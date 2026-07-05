@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.1
 // @description  Flight Management Computer for GeoFS with boarding, ground ops, fueling, and pushback simulation
+// @author       Joshuaismyname2008
 // @match        https://www.geo-fs.com/geofs.php*
 // @match        https://*.geo-fs.com/geofs.php*
 // @grant        none
