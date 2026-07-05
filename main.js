@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         GeoFMC
+// @name         GeoFS-FMC
 // @namespace    http://tampermonkey.net/
 // @version      2.1
 // @description  Flight Management Computer for GeoFS with boarding, ground ops, fueling, and pushback simulation
